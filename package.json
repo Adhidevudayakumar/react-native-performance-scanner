@@ -1,0 +1,24 @@
+{
+  "name": "react-native-performance-scanner",
+  "version": "0.0.1",
+  "description": "A Plug and Play package to know the performance statistics of your app, mesure performance and other quality index with easyness!.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adhidevudayakumar/react-native-performance-scanner.git"
+  },
+  "keywords": [
+    "ReactNative",
+    "Performance",
+    "scanner"
+  ],
+  "author": "Adhidev Udayakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adhidevudayakumar/react-native-performance-scanner/issues"
+  },
+  "homepage": "https://github.com/Adhidevudayakumar/react-native-performance-scanner#readme"
+}
